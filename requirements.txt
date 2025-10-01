@@ -1,0 +1,6 @@
+aiogram==3.*
+python-dotenv
+gspread
+oauth2client
+phonenumbers
+python-dateutil
